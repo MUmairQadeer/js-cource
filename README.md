@@ -1,2 +1,2 @@
-# js-cource
-Javascript full cource
+# js-practice
+Javascript full practice
